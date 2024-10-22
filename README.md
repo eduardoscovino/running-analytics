@@ -29,4 +29,10 @@ Here are the quick description about what I do in each file.
 
 # Analysis
 
-This part of the present work is better explained in my [Medium Article]([https://https://www.linkedin.com/in/eduardo-scovino-943461b8/](https://medium.com/@eduardoscovino/an%C3%A1lise-de-dados-em-corridas-de-rua-com-o-app-nike-run-f843192819e6))
+This part of the present work is better explained in my [Medium Article](https://medium.com/@eduardoscovino/an%C3%A1lise-de-dados-em-corridas-de-rua-com-o-app-nike-run-f843192819e6).
+
+Basically, I tried to analyze the consistency and performance of my running trainings with some hypothesis related to pace, distance and parts of the day.
+
+In the session of Statistics, I plotted the distribution curve of my paces to verify if it was a normal curve. Then, I did two statiscal tests to investigate the influence of the part of the day and of the kilometer on my average pace.
+
+Enjoy!!
